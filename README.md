@@ -106,6 +106,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
    <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
 </div>
