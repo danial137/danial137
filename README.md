@@ -1,7 +1,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm <a href="https://3-d-portfolio-inky-phi.vercel.app/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> Danial</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
+  Hi, I'm <a href="https://3-d-portfolio-inky-phi.vercel.app/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px" target="blank"/> Danial</a>!
 </h1>
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
