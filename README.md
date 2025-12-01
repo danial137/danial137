@@ -74,7 +74,7 @@
   ![Caddy](https://img.shields.io/badge/Caddy-000000?style=flat&logo=caddy&logoColor=white&labelColor=000000)
   ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-21759B?style=flat&logo=Docker&logoColor=blue)
+  ![Vercel](https://img.shields.io/badge/Vercel-21759B?style=flat&logo=Vercel&logoColor=white)
   ![Wix](https://img.shields.io/badge/Wix-000?style=flat&logo=wix&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
