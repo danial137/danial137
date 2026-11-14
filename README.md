@@ -118,8 +118,8 @@ I enjoy working on the full lifecycle of a product — from building responsive 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danial137&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danial137&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="./profile/stats.svg" />
+  <img height="170" src="./profile/top-langs.svg" />
 </div>
 
 ---
