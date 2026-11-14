@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI & Full-Stack Developer | LLM AI Agent | .NET | C# | Next.js, React.js, Node.js, Postgres, Azure
+# AI & Full-Stack Developer | Next.js, React.js, Node.js, Postgres, Python
 
 <p>
   📞 Beyond my professional interests, I also value building connections and making friends within the tech community. If you share a similar passion for technology and are interested in connecting with me, please feel free to send me a direct message.
